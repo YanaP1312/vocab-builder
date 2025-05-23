@@ -7,13 +7,13 @@ import {
   StyleSheet,
 } from 'react-native';
 import styles from './styles';
-import {ViewPassIcon} from '../../../asstes/icons';
+import {ViewPassIcon} from '../../../assets/icons';
 
 const LoginPage = () => {
   return (
     <View style={styles.mainWrapper}>
       <View>
-        <Text>Login</Text>
+        <Text style={styles.title}>Login</Text>
         <Text>
           Please enter your login details to continue using our service:
         </Text>

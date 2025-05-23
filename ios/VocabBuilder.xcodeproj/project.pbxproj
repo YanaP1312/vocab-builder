@@ -7,24 +7,74 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01E968B723B6401CAC9D7AAD /* MacPawFixelDisplay-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 21FE41FD75774F54AB8F524B /* MacPawFixelDisplay-Light.otf */; };
+		0588501178F54168922618C9 /* SF-Pro-Display-ThinItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4D2E46C32E3E466B8FC0BCFA /* SF-Pro-Display-ThinItalic.otf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-VocabBuilder.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-VocabBuilder.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		15388573FB92416D923265B2 /* SF-Pro-Display-Ultralight.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6A310EF491864B5091907DA6 /* SF-Pro-Display-Ultralight.otf */; };
+		1B76ECF08E2F4B25AE06935A /* MacPawFixelDisplay-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2A717D5E4F614B3E98DA99DE /* MacPawFixelDisplay-Medium.otf */; };
+		22F5508A441C4BEB96169A2E /* SF-Pro-Display-HeavyItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8E229FEF28A245B089AE576B /* SF-Pro-Display-HeavyItalic.otf */; };
+		27F24EA55F9447928A22C887 /* SF-Pro-Display-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 65389231C8E1450C8956CA69 /* SF-Pro-Display-Bold.otf */; };
+		2E383A0F6EA648548743C8EE /* SF-Pro-Display-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 30C220E995574051B1C92E9E /* SF-Pro-Display-BoldItalic.otf */; };
+		2F180DB35AE245838F5C9AA1 /* SF-Pro-Display-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7A6E1C8C0009431687313A31 /* SF-Pro-Display-Regular.otf */; };
+		2F3E8BECD1274CE48BAC593F /* MacPawFixelDisplay-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2B0438410D86452E8DECE485 /* MacPawFixelDisplay-SemiBold.otf */; };
+		319C016DD632414790455A1D /* SF-Pro-Display-Heavy.otf in Resources */ = {isa = PBXBuildFile; fileRef = A408775FC9D546F1A19649FF /* SF-Pro-Display-Heavy.otf */; };
+		3B552783B13344A9A3A2C6D8 /* SF-Pro-Display-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 16168732CFA8472EBF073B79 /* SF-Pro-Display-Light.otf */; };
+		41D8CD0B4C8F4812B0E4C927 /* SF-Pro-Display-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7DA8992107364003A2E4EF71 /* SF-Pro-Display-Thin.otf */; };
+		4A0CC576171A484F89C65C9E /* SF-Pro-Display-UltralightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 2CD667FCD16943549E68D4FE /* SF-Pro-Display-UltralightItalic.otf */; };
 		4F3B94F1CFE5EF9A15BA3C6F /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		5204D7F845B5400EBCA7372E /* SF-Pro-Display-MediumItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F861013A89A442FF99D79C2F /* SF-Pro-Display-MediumItalic.otf */; };
+		537D0355472B4B579D3284F5 /* SF-Pro-Display-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 791CF1264C2E419A9585824D /* SF-Pro-Display-Black.otf */; };
+		5C63DA12551E415D8FFAA5DB /* SF-Pro-Display-SemiboldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0017E67672524B21B30D727D /* SF-Pro-Display-SemiboldItalic.otf */; };
+		74888A9632914A90AAE5FCBD /* SF-Pro-Display-RegularItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = F2A35882A17C4B769E38D8D2 /* SF-Pro-Display-RegularItalic.otf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8CA5B3182EA84922AB51B7CE /* SF-Pro-Display-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = FC1E26AA7E0E44FF848B9641 /* SF-Pro-Display-LightItalic.otf */; };
+		92C2D51C3981415DAF09414E /* SF-Pro-Display-BlackItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = CFB211B83A454487BC63FFE0 /* SF-Pro-Display-BlackItalic.otf */; };
+		93B2990339E94E09A9D51C9C /* MacPawFixelDisplay-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 292B8EEF39864430A478106E /* MacPawFixelDisplay-Bold.otf */; };
+		9AE0F50520FC44829BF2170C /* MacPawFixelDisplay-ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 79FD8CA9F3274AF4B4DE7900 /* MacPawFixelDisplay-ExtraBold.otf */; };
+		A3BAE9FC321C40A0A5068920 /* SF-Pro-Display-Medium.otf in Resources */ = {isa = PBXBuildFile; fileRef = 201C3D41F94244C9A3BDB181 /* SF-Pro-Display-Medium.otf */; };
+		B42A5EF6EE6D4D6F9D4B8C6F /* SF-Pro-Display-Semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1F23EDD20475491994B78987 /* SF-Pro-Display-Semibold.otf */; };
+		C0873BAD44344E96B6EF3C5D /* MacPawFixelDisplay-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 6D5C1015215449ECB12BFF62 /* MacPawFixelDisplay-Regular.otf */; };
+		CDFC4E80DAC442D1A32A0455 /* MacPawFixelDisplay-Thin.otf in Resources */ = {isa = PBXBuildFile; fileRef = DFB240FD05FC43369B699A94 /* MacPawFixelDisplay-Thin.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0017E67672524B21B30D727D /* SF-Pro-Display-SemiboldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-SemiboldItalic.otf"; path = "../src/assets/fonts/SF-Pro-Display-SemiboldItalic.otf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* VocabBuilder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VocabBuilder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = VocabBuilder/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = VocabBuilder/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = VocabBuilder/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		16168732CFA8472EBF073B79 /* SF-Pro-Display-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-Light.otf"; path = "../src/assets/fonts/SF-Pro-Display-Light.otf"; sourceTree = "<group>"; };
+		1F23EDD20475491994B78987 /* SF-Pro-Display-Semibold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-Semibold.otf"; path = "../src/assets/fonts/SF-Pro-Display-Semibold.otf"; sourceTree = "<group>"; };
+		201C3D41F94244C9A3BDB181 /* SF-Pro-Display-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-Medium.otf"; path = "../src/assets/fonts/SF-Pro-Display-Medium.otf"; sourceTree = "<group>"; };
+		21FE41FD75774F54AB8F524B /* MacPawFixelDisplay-Light.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MacPawFixelDisplay-Light.otf"; path = "../src/assets/fonts/MacPawFixelDisplay-Light.otf"; sourceTree = "<group>"; };
+		292B8EEF39864430A478106E /* MacPawFixelDisplay-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MacPawFixelDisplay-Bold.otf"; path = "../src/assets/fonts/MacPawFixelDisplay-Bold.otf"; sourceTree = "<group>"; };
+		2A717D5E4F614B3E98DA99DE /* MacPawFixelDisplay-Medium.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MacPawFixelDisplay-Medium.otf"; path = "../src/assets/fonts/MacPawFixelDisplay-Medium.otf"; sourceTree = "<group>"; };
+		2B0438410D86452E8DECE485 /* MacPawFixelDisplay-SemiBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MacPawFixelDisplay-SemiBold.otf"; path = "../src/assets/fonts/MacPawFixelDisplay-SemiBold.otf"; sourceTree = "<group>"; };
+		2CD667FCD16943549E68D4FE /* SF-Pro-Display-UltralightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-UltralightItalic.otf"; path = "../src/assets/fonts/SF-Pro-Display-UltralightItalic.otf"; sourceTree = "<group>"; };
+		30C220E995574051B1C92E9E /* SF-Pro-Display-BoldItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-BoldItalic.otf"; path = "../src/assets/fonts/SF-Pro-Display-BoldItalic.otf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-VocabBuilder.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VocabBuilder.debug.xcconfig"; path = "Target Support Files/Pods-VocabBuilder/Pods-VocabBuilder.debug.xcconfig"; sourceTree = "<group>"; };
+		4D2E46C32E3E466B8FC0BCFA /* SF-Pro-Display-ThinItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-ThinItalic.otf"; path = "../src/assets/fonts/SF-Pro-Display-ThinItalic.otf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-VocabBuilder.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VocabBuilder.release.xcconfig"; path = "Target Support Files/Pods-VocabBuilder/Pods-VocabBuilder.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-VocabBuilder.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-VocabBuilder.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		65389231C8E1450C8956CA69 /* SF-Pro-Display-Bold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-Bold.otf"; path = "../src/assets/fonts/SF-Pro-Display-Bold.otf"; sourceTree = "<group>"; };
+		6A310EF491864B5091907DA6 /* SF-Pro-Display-Ultralight.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-Ultralight.otf"; path = "../src/assets/fonts/SF-Pro-Display-Ultralight.otf"; sourceTree = "<group>"; };
+		6D5C1015215449ECB12BFF62 /* MacPawFixelDisplay-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MacPawFixelDisplay-Regular.otf"; path = "../src/assets/fonts/MacPawFixelDisplay-Regular.otf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = VocabBuilder/AppDelegate.swift; sourceTree = "<group>"; };
+		791CF1264C2E419A9585824D /* SF-Pro-Display-Black.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-Black.otf"; path = "../src/assets/fonts/SF-Pro-Display-Black.otf"; sourceTree = "<group>"; };
+		79FD8CA9F3274AF4B4DE7900 /* MacPawFixelDisplay-ExtraBold.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MacPawFixelDisplay-ExtraBold.otf"; path = "../src/assets/fonts/MacPawFixelDisplay-ExtraBold.otf"; sourceTree = "<group>"; };
+		7A6E1C8C0009431687313A31 /* SF-Pro-Display-Regular.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-Regular.otf"; path = "../src/assets/fonts/SF-Pro-Display-Regular.otf"; sourceTree = "<group>"; };
+		7DA8992107364003A2E4EF71 /* SF-Pro-Display-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-Thin.otf"; path = "../src/assets/fonts/SF-Pro-Display-Thin.otf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = VocabBuilder/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8E229FEF28A245B089AE576B /* SF-Pro-Display-HeavyItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-HeavyItalic.otf"; path = "../src/assets/fonts/SF-Pro-Display-HeavyItalic.otf"; sourceTree = "<group>"; };
+		A408775FC9D546F1A19649FF /* SF-Pro-Display-Heavy.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-Heavy.otf"; path = "../src/assets/fonts/SF-Pro-Display-Heavy.otf"; sourceTree = "<group>"; };
+		CFB211B83A454487BC63FFE0 /* SF-Pro-Display-BlackItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-BlackItalic.otf"; path = "../src/assets/fonts/SF-Pro-Display-BlackItalic.otf"; sourceTree = "<group>"; };
+		DFB240FD05FC43369B699A94 /* MacPawFixelDisplay-Thin.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "MacPawFixelDisplay-Thin.otf"; path = "../src/assets/fonts/MacPawFixelDisplay-Thin.otf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		F2A35882A17C4B769E38D8D2 /* SF-Pro-Display-RegularItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-RegularItalic.otf"; path = "../src/assets/fonts/SF-Pro-Display-RegularItalic.otf"; sourceTree = "<group>"; };
+		F861013A89A442FF99D79C2F /* SF-Pro-Display-MediumItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-MediumItalic.otf"; path = "../src/assets/fonts/SF-Pro-Display-MediumItalic.otf"; sourceTree = "<group>"; };
+		FC1E26AA7E0E44FF848B9641 /* SF-Pro-Display-LightItalic.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "SF-Pro-Display-LightItalic.otf"; path = "../src/assets/fonts/SF-Pro-Display-LightItalic.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +101,39 @@
 			name = VocabBuilder;
 			sourceTree = "<group>";
 		};
+		2851D2918EB542FCAEBE25C3 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				292B8EEF39864430A478106E /* MacPawFixelDisplay-Bold.otf */,
+				79FD8CA9F3274AF4B4DE7900 /* MacPawFixelDisplay-ExtraBold.otf */,
+				21FE41FD75774F54AB8F524B /* MacPawFixelDisplay-Light.otf */,
+				2A717D5E4F614B3E98DA99DE /* MacPawFixelDisplay-Medium.otf */,
+				6D5C1015215449ECB12BFF62 /* MacPawFixelDisplay-Regular.otf */,
+				2B0438410D86452E8DECE485 /* MacPawFixelDisplay-SemiBold.otf */,
+				DFB240FD05FC43369B699A94 /* MacPawFixelDisplay-Thin.otf */,
+				791CF1264C2E419A9585824D /* SF-Pro-Display-Black.otf */,
+				CFB211B83A454487BC63FFE0 /* SF-Pro-Display-BlackItalic.otf */,
+				65389231C8E1450C8956CA69 /* SF-Pro-Display-Bold.otf */,
+				30C220E995574051B1C92E9E /* SF-Pro-Display-BoldItalic.otf */,
+				A408775FC9D546F1A19649FF /* SF-Pro-Display-Heavy.otf */,
+				8E229FEF28A245B089AE576B /* SF-Pro-Display-HeavyItalic.otf */,
+				16168732CFA8472EBF073B79 /* SF-Pro-Display-Light.otf */,
+				FC1E26AA7E0E44FF848B9641 /* SF-Pro-Display-LightItalic.otf */,
+				201C3D41F94244C9A3BDB181 /* SF-Pro-Display-Medium.otf */,
+				F861013A89A442FF99D79C2F /* SF-Pro-Display-MediumItalic.otf */,
+				7A6E1C8C0009431687313A31 /* SF-Pro-Display-Regular.otf */,
+				F2A35882A17C4B769E38D8D2 /* SF-Pro-Display-RegularItalic.otf */,
+				1F23EDD20475491994B78987 /* SF-Pro-Display-Semibold.otf */,
+				0017E67672524B21B30D727D /* SF-Pro-Display-SemiboldItalic.otf */,
+				7DA8992107364003A2E4EF71 /* SF-Pro-Display-Thin.otf */,
+				4D2E46C32E3E466B8FC0BCFA /* SF-Pro-Display-ThinItalic.otf */,
+				6A310EF491864B5091907DA6 /* SF-Pro-Display-Ultralight.otf */,
+				2CD667FCD16943549E68D4FE /* SF-Pro-Display-UltralightItalic.otf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -75,6 +158,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				2851D2918EB542FCAEBE25C3 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -110,7 +194,6 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
 				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
@@ -161,6 +244,31 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				4F3B94F1CFE5EF9A15BA3C6F /* PrivacyInfo.xcprivacy in Resources */,
+				93B2990339E94E09A9D51C9C /* MacPawFixelDisplay-Bold.otf in Resources */,
+				9AE0F50520FC44829BF2170C /* MacPawFixelDisplay-ExtraBold.otf in Resources */,
+				01E968B723B6401CAC9D7AAD /* MacPawFixelDisplay-Light.otf in Resources */,
+				1B76ECF08E2F4B25AE06935A /* MacPawFixelDisplay-Medium.otf in Resources */,
+				C0873BAD44344E96B6EF3C5D /* MacPawFixelDisplay-Regular.otf in Resources */,
+				2F3E8BECD1274CE48BAC593F /* MacPawFixelDisplay-SemiBold.otf in Resources */,
+				CDFC4E80DAC442D1A32A0455 /* MacPawFixelDisplay-Thin.otf in Resources */,
+				537D0355472B4B579D3284F5 /* SF-Pro-Display-Black.otf in Resources */,
+				92C2D51C3981415DAF09414E /* SF-Pro-Display-BlackItalic.otf in Resources */,
+				27F24EA55F9447928A22C887 /* SF-Pro-Display-Bold.otf in Resources */,
+				2E383A0F6EA648548743C8EE /* SF-Pro-Display-BoldItalic.otf in Resources */,
+				319C016DD632414790455A1D /* SF-Pro-Display-Heavy.otf in Resources */,
+				22F5508A441C4BEB96169A2E /* SF-Pro-Display-HeavyItalic.otf in Resources */,
+				3B552783B13344A9A3A2C6D8 /* SF-Pro-Display-Light.otf in Resources */,
+				8CA5B3182EA84922AB51B7CE /* SF-Pro-Display-LightItalic.otf in Resources */,
+				A3BAE9FC321C40A0A5068920 /* SF-Pro-Display-Medium.otf in Resources */,
+				5204D7F845B5400EBCA7372E /* SF-Pro-Display-MediumItalic.otf in Resources */,
+				2F180DB35AE245838F5C9AA1 /* SF-Pro-Display-Regular.otf in Resources */,
+				74888A9632914A90AAE5FCBD /* SF-Pro-Display-RegularItalic.otf in Resources */,
+				B42A5EF6EE6D4D6F9D4B8C6F /* SF-Pro-Display-Semibold.otf in Resources */,
+				5C63DA12551E415D8FFAA5DB /* SF-Pro-Display-SemiboldItalic.otf in Resources */,
+				41D8CD0B4C8F4812B0E4C927 /* SF-Pro-Display-Thin.otf in Resources */,
+				0588501178F54168922618C9 /* SF-Pro-Display-ThinItalic.otf in Resources */,
+				15388573FB92416D923265B2 /* SF-Pro-Display-Ultralight.otf in Resources */,
+				4A0CC576171A484F89C65C9E /* SF-Pro-Display-UltralightItalic.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -182,23 +290,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"$REACT_NATIVE_PATH/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"$REACT_NATIVE_PATH/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
-		};
-		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-VocabBuilder/Pods-VocabBuilder-frameworks-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-VocabBuilder/Pods-VocabBuilder-frameworks-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-VocabBuilder/Pods-VocabBuilder-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
 		};
 		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -383,7 +474,7 @@
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
-				USE_HERMES = true;
+				USE_HERMES = false;
 			};
 			name = Debug;
 		};
@@ -454,7 +545,7 @@
 				);
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
-				USE_HERMES = true;
+				USE_HERMES = false;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
